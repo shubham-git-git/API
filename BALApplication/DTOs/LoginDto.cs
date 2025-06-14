@@ -8,5 +8,6 @@ namespace BALApplication.DTOs
 {
     public class LoginDto
     {
+        public int MyProperty { get; set; }
     }
 }
